@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming: incorrectly invoking a procedure. The `bug.tcl` file shows the erroneous code, while `bugSolution.tcl` provides the corrected version. This showcases the importance of proper procedure calling conventions in Tcl.
